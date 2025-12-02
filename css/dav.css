@@ -1,0 +1,12 @@
+.aimg {
+    width: 200px;
+    border-radius: 20px;
+}
+
+body {
+    background-color: cadetblue;
+}
+
+h3, h4 {
+    color: #337;
+}
